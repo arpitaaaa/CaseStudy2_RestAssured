@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10574" started-at="2021-08-09T10:47:05Z" finished-at="2021-08-09T10:47:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10574" started-at="2021-08-09T10:47:05Z" finished-at="2021-08-09T10:47:16Z">
+      <class name="Demo.caseStudy">
+        <test-method status="PASS" signature="getAccessToken()[pri:0, instance:Demo.caseStudy@3532ec19]" name="getAccessToken" duration-ms="8749" started-at="2021-08-09T16:17:05Z" finished-at="2021-08-09T16:17:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAccessToken -->
+        <test-method status="PASS" signature="login()[pri:1, instance:Demo.caseStudy@3532ec19]" name="login" duration-ms="646" started-at="2021-08-09T16:17:14Z" finished-at="2021-08-09T16:17:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="listOfCustomer()[pri:4, instance:Demo.caseStudy@3532ec19]" name="listOfCustomer" duration-ms="584" started-at="2021-08-09T16:17:14Z" finished-at="2021-08-09T16:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listOfCustomer -->
+        <test-method status="PASS" signature="logOut()[pri:5, instance:Demo.caseStudy@3532ec19]" name="logOut" duration-ms="554" started-at="2021-08-09T16:17:15Z" finished-at="2021-08-09T16:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- Demo.caseStudy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
